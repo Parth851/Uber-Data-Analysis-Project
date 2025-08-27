@@ -55,7 +55,7 @@ This project aims to analyze Uber ride data to understand ride usage patterns �
 
 🛠️ Steps for Cloning the Project
 # Clone the Repository
-git clone https://github.com/Geo-y20/Uber-Rides-Data-Analysis.git  
+git clone https://github.com/Parth851/Uber-Data-Analysis-Project.git
 
 # Navigate to Directory
 cd Uber-Rides-Data-Analysis  
